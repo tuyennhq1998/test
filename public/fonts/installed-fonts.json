@@ -1,0 +1,8 @@
+{
+    "msmincho": {
+        "normal": "C:\\xampp\\htdocs\\train\\vendor\\dompdf\\dompdf\/lib\/fonts\/MSMINCHO",
+        "bold": "C:\\xampp\\htdocs\\train\\vendor\\dompdf\\dompdf\/lib\/fonts\/MSMINCHO",
+        "italic": "C:\\xampp\\htdocs\\train\\vendor\\dompdf\\dompdf\/lib\/fonts\/MSMINCHO",
+        "bold_italic": "C:\\xampp\\htdocs\\train\\vendor\\dompdf\\dompdf\/lib\/fonts\/MSMINCHO"
+    }
+}
